@@ -1,0 +1,20 @@
+{
+  "name": "react-playground",
+  "homepage": "https://github.com/Blackbaud-SteveBrush/react-playground",
+  "authors": [
+    "stevebrush <steve.brush@blackbaud.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.1"
+  }
+}
